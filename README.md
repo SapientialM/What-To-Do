@@ -119,3 +119,10 @@ For a full list of licenses and attributions, please see the [Third-Party Licens
 
 ### Icon credits: [@maxtron95](https://github.com/maxtron95)
 ### Website credits: [@himanshhhhuv](https://github.com/himanshhhhuv)
+
+## License
+
+This project is licensed under the **GNU General Public License v3.0** (GPLv3), the same license used by the original Boring Notch project. See [LICENSE](./LICENSE) for the full text.
+
+> Copyright (C) 2024-2025 [TheBoredTeam](https://github.com/TheBoredTeam)
+> Copyright (C) 2026 [SapientialM](https://github.com/SapientialM)
