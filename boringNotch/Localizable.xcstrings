@@ -3718,102 +3718,102 @@
         }
       }
     },
-    "Boring Notch" : {
+    "What To Do" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch"
+            "value" : "What To Do"
           }
         }
       }
@@ -17939,102 +17939,102 @@
         }
       }
     },
-    "Restart Boring Notch" : {
+    "Restart What To Do" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Restartovat Boring Notch"
+            "value" : "Restartovat What To Do"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch neu starten"
+            "value" : "What To Do neu starten"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Reiniciar Boring Notch"
+            "value" : "Reiniciar What To Do"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Redémarrer Boring Notch"
+            "value" : "Redémarrer What To Do"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Riavvia Boring Notch"
+            "value" : "Riavvia What To Do"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch 재시작"
+            "value" : "What To Do 재시작"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Uruchom ponownie Boring Notch"
+            "value" : "Uruchom ponownie What To Do"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Boring Notch'u yeniden başlat"
+            "value" : "What To Do'u yeniden başlat"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "Restart Boring Notch"
+            "value" : "Restart What To Do"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
-            "value" : "重启 Boring Notch"
+            "value" : "重启 What To Do"
           }
         }
       }

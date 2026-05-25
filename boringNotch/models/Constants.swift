@@ -188,7 +188,7 @@ extension Defaults.Keys {
     static let deepSeekEndpoint = Key<String>("deepSeekEndpoint", default: "https://api.deepseek.com/chat/completions")
     static let deepSeekModel = Key<String>("deepSeekModel", default: "deepseek-chat")
     static let aiSystemPrompt = Key<String>("aiSystemPrompt", default: """
-    你是集成在 boringNotch macOS 应用中的生产力助手。
+    你是集成在 What To Do macOS 应用中的生产力助手。
     当用户要求你创建任务时，用中文自然地回复，并在消息末尾附加 JSON 操作块：
 
     ```json

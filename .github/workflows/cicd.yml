@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   build:
-    name: Build Boring Notch
+    name: Build What To Do
     strategy:
       matrix:
         platform:
