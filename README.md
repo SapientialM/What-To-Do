@@ -12,10 +12,6 @@
 
 Say hello to **What To Do** — your MacBook's notch transforms into a dynamic music control center, complete with a vibrant visualizer and all the essential music controls you need. But that's just the start! It also offers calendar integration, a handy file shelf with AirDrop support, a complete macOS HUD replacement and more!
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d5f69c1-6e7b-4bc2-a6f1-bb9e27cf88a8" alt="Demo GIF" />
-</p>
-
 ---
 
 ## Features
